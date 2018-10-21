@@ -40,7 +40,7 @@ int main()
 
     }
 }
-```|
+```
 
 hasilnya :
 ![img](https://raw.githubusercontent.com/juhadipayumi/praktikum2/master/jp.jpg)
@@ -92,7 +92,7 @@ int main()
     }
 }
 
-'''|
+```
 
 hasilnya :
 ![img](https://raw.githubusercontent.com/juhadipayumi/praktikum2/master/jp2.jpg)
